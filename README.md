@@ -1,6 +1,8 @@
 # Interactly – FRONT END DEVELOPER –Coding Task ReactFlow Render
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Record Preview](https://drive.google.com/file/d/18LlYLyYoktxhkTWnsGsgpX1nMVeVWck_/view?usp=sharing)
+
+
 
 Currently, two official plugins are available:
 
